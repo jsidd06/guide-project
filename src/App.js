@@ -1,5 +1,5 @@
 import Expense from "./Components/Expenses/Expense/Expense";
-function App() {
+const App = () => {
   const expense = [{
     id: 1,
     title: "Car Insurance",
